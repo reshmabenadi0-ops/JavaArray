@@ -22,7 +22,7 @@ public class ArraySum {
 			}
 		  
 		}
-		
+		System.out.println("New Change");		
 	}
 
 }
